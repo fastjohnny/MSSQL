@@ -1,0 +1,4 @@
+USE TEST_BASE
+GO
+SELECT * FROM dbo.products;
+GO

@@ -14,7 +14,7 @@ CREATE TABLE dbo.Products
 GO 
 
 #INSERT INTO dbo.Products(ProductID, ProductName, Price, ProductDescription) 
-#VALUES (1, 'prod1', 103, 'test prod not for child')
+##VALUES (1, 'prod1', 103, 'test prod not for child')
 #GO
 #INSERT INTO dbo.Products(ProductID, ProductName, Price, ProductDescription)
 #SELECT 32, ProductName, Price, ProductDescription FROM dbo.Products
